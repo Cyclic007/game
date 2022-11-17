@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T21:17:22.979Z" agent="5.0 (X11; CrOS x86_64 15117.111.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fq_UlGi2SVt7rVX17x3q" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T21:21:46.429Z" agent="5.0 (X11; CrOS x86_64 15117.111.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="a1Nl7nUFSAbJesrKib0o" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4408" dy="3676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="1">
+    <mxGraphModel dx="2804" dy="2798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -260,17 +260,17 @@
             <mxRectangle width="120" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_J6GtBzEEhLiGHLs7JHt-33" value="cards" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-10" y="80" width="160" height="116" as="geometry" />
+        <mxCell id="_J6GtBzEEhLiGHLs7JHt-33" value="cards" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-50" y="370" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_J6GtBzEEhLiGHLs7JHt-34" value="mob 1 " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="_J6GtBzEEhLiGHLs7JHt-33">
-          <mxGeometry y="26" width="160" height="30" as="geometry" />
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_J6GtBzEEhLiGHLs7JHt-35" value="mob 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="_J6GtBzEEhLiGHLs7JHt-33">
-          <mxGeometry y="56" width="160" height="30" as="geometry" />
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_J6GtBzEEhLiGHLs7JHt-36" value="boss 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="_J6GtBzEEhLiGHLs7JHt-33">
-          <mxGeometry y="86" width="160" height="30" as="geometry" />
+          <mxGeometry y="80" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_J6GtBzEEhLiGHLs7JHt-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=23;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_J6GtBzEEhLiGHLs7JHt-41" target="_J6GtBzEEhLiGHLs7JHt-36">
           <mxGeometry relative="1" as="geometry" />
